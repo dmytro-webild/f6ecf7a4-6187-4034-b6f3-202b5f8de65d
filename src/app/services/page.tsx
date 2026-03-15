@@ -98,7 +98,7 @@ export default function ServicesPage() {
                 name: "Luxury Apartment - Abuja",
                 price: "₦75,000,000",
                 variant: "3 Bed | 3 Bath | Premium Finish",
-                imageSrc: "http://img.b2bpic.net/free-photo/high-end-modern-apartment-with-home-office-desk-used-remote-job_482257-120652.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/high-end-modern-apartment-with-home-office-desk-used-remote-job_482257-120652.jpg?_wi=3",
                 imageAlt: "Luxury apartment in Abuja",
               },
               {
@@ -106,7 +106,7 @@ export default function ServicesPage() {
                 name: "Modern Complex - Lagos",
                 price: "₦120,000,000",
                 variant: "4 Bed | 4 Bath | Modern Design",
-                imageSrc: "http://img.b2bpic.net/free-photo/ai-generated-house-design_23-2150666209.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/ai-generated-house-design_23-2150666209.jpg?_wi=4",
                 imageAlt: "Modern complex in Lagos",
               },
               {
@@ -114,7 +114,7 @@ export default function ServicesPage() {
                 name: "Premium Villa - Lekki",
                 price: "₦180,000,000",
                 variant: "5 Bed | 5 Bath | Exclusive Area",
-                imageSrc: "http://img.b2bpic.net/free-photo/young-woman-traveling-without-covid_23-2149077831.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/young-woman-traveling-without-covid_23-2149077831.jpg?_wi=3",
                 imageAlt: "Premium villa in Lekki",
               },
             ]}

@@ -185,7 +185,7 @@ export default function AboutPage() {
                 name: "Chidi Okafor",
                 handle: "Property Investor",
                 testimonial: "Vertexa helped me identify and secure a prime land investment in Abuja. Their market analysis was incredibly accurate, and I've already seen 25% appreciation in just 18 months. Highly professional team.",
-                imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-business-man-with-backpack_23-2149915912.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-business-man-with-backpack_23-2149915912.jpg?_wi=2",
                 imageAlt: "Chidi Okafor testimonial",
               },
               {
@@ -193,7 +193,7 @@ export default function AboutPage() {
                 name: "Amara Eze",
                 handle: "First-time Home Buyer",
                 testimonial: "Finding my first home was stressful until I met Vertexa's team. They walked me through every step, negotiated the best price, and made the entire process transparent and smooth. I'm so happy with my new home.",
-                imageSrc: "http://img.b2bpic.net/free-photo/confident-businesswoman-looking-camera-with-arm-crossed_23-2148187252.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/confident-businesswoman-looking-camera-with-arm-crossed_23-2148187252.jpg?_wi=2",
                 imageAlt: "Amara Eze testimonial",
               },
               {
@@ -201,7 +201,7 @@ export default function AboutPage() {
                 name: "Tunde Lawal",
                 handle: "Business Owner",
                 testimonial: "I needed to sell my commercial property quickly. Vertexa's marketing strategy brought qualified buyers within weeks. They achieved my target price and handled all the legal complexities professionally.",
-                imageSrc: "http://img.b2bpic.net/free-photo/businessman-with-tablet_1098-135.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/businessman-with-tablet_1098-135.jpg?_wi=2",
                 imageAlt: "Tunde Lawal testimonial",
               },
               {
@@ -209,7 +209,7 @@ export default function AboutPage() {
                 name: "Zainab Ibrahim",
                 handle: "Portfolio Manager",
                 testimonial: "As someone managing multiple properties, Vertexa's management services are invaluable. Their tenant screening is thorough, maintenance response is quick, and financial reporting is detailed and transparent.",
-                imageSrc: "http://img.b2bpic.net/free-photo/closeup-happy-middle-aged-business-leader_1262-4823.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/closeup-happy-middle-aged-business-leader_1262-4823.jpg?_wi=2",
                 imageAlt: "Zainab Ibrahim testimonial",
               },
               {
@@ -217,7 +217,7 @@ export default function AboutPage() {
                 name: "Emmanuel Obi",
                 handle: "Real Estate Developer",
                 testimonial: "Partnering with Vertexa for property valuation and market insights has been crucial for my development projects. Their data-driven approach helps me make confident investment decisions.",
-                imageSrc: "http://img.b2bpic.net/free-photo/portrait-beauty-businesswoman-leaning-against-brick-wall_613910-773.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/portrait-beauty-businesswoman-leaning-against-brick-wall_613910-773.jpg?_wi=2",
                 imageAlt: "Emmanuel Obi testimonial",
               },
               {
@@ -225,7 +225,7 @@ export default function AboutPage() {
                 name: "Grace Adeleke",
                 handle: "Estate Owner",
                 testimonial: "Excellent service from consultation to property valuation. They provided a comprehensive market analysis and helped me understand the true value of my property. Truly impressive professionalism.",
-                imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1651.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1651.jpg?_wi=2",
                 imageAlt: "Grace Adeleke testimonial",
               },
             ]}

@@ -46,7 +46,7 @@ export default function ContactPage() {
           tagAnimation="slide-up"
           background={{ variant: "radial-gradient" }}
           useInvertedBackground={true}
-          imageSrc="http://img.b2bpic.net/free-photo/calculator-compasses-near-blueprints_23-2147785563.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/calculator-compasses-near-blueprints_23-2147785563.jpg?_wi=2"
           imageAlt="Property valuation calculator"
           mediaAnimation="opacity"
           mediaPosition="right"
