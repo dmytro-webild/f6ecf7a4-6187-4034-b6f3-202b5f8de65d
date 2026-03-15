@@ -77,7 +77,7 @@ export default function HomePage() {
           ]}
           buttonAnimation="slide-up"
           layoutOrder="default"
-          imageSrc="http://img.b2bpic.net/free-photo/concrete-building-with-balcony_250224-309.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/concrete-building-with-balcony_250224-309.jpg?_wi=1"
           imageAlt="Premium property showcase"
           mediaAnimation="opacity"
           frameStyle="card"
@@ -109,7 +109,7 @@ export default function HomePage() {
               name: "Modern Complex - Lagos",
               price: "₦120,000,000",
               variant: "4 Bed | 4 Bath | Modern Design",
-              imageSrc: "http://img.b2bpic.net/free-photo/ai-generated-house-design_23-2150666209.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/ai-generated-house-design_23-2150666209.jpg?_wi=1",
               imageAlt: "Modern complex in Lagos",
             },
             {
@@ -185,7 +185,7 @@ export default function HomePage() {
               name: "Land Development - Karshi",
               price: "₦45,000,000",
               variant: "5 years | Est. 35% ROI | 2 hectares",
-              imageSrc: "http://img.b2bpic.net/free-photo/successful-businessman-suit-working-marketing-presentation-sitting-bech-outside-front-corporate-building-office-executive-manager-searching-information-internet_482257-30496.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/successful-businessman-suit-working-marketing-presentation-sitting-bech-outside-front-corporate-building-office-executive-manager-searching-information-internet_482257-30496.jpg?_wi=1",
               imageAlt: "Land development investment opportunity",
             },
             {
@@ -193,7 +193,7 @@ export default function HomePage() {
               name: "Commercial Complex - Kuje",
               price: "₦95,000,000",
               variant: "3-5 years | Est. 28% ROI | Mixed-use",
-              imageSrc: "http://img.b2bpic.net/free-photo/businessmen-hands-white-table-with-documents-drafts_176420-341.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/businessmen-hands-white-table-with-documents-drafts_176420-341.jpg?_wi=1",
               imageAlt: "Commercial complex investment",
             },
             {
@@ -201,7 +201,7 @@ export default function HomePage() {
               name: "Residential Estates - Azhata",
               price: "₦150,000,000",
               variant: "Phase investment | Est. 32% ROI | 50 units",
-              imageSrc: "http://img.b2bpic.net/free-photo/ai-generated-house-design_23-2150666209.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/ai-generated-house-design_23-2150666209.jpg?_wi=2",
               imageAlt: "Residential estates development",
             },
           ]}
